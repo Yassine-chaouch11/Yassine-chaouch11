@@ -16,11 +16,15 @@ Je suis un analyste passionné par la transformation des données en solutions c
 - **Environnements :** Jupyter, Git/GitHub, VS Code.
 - **Langues :** Français, Anglais, Arabe.
 
-## 📁 Projet à la une
-### [Détection de Faux Avis E-commerce]
-Projet utilisant le **Natural Language Processing (NLP)** pour filtrer les avis frauduleux. 
-- *Pourquoi ?* Pour protéger l'intégrité des plateformes e-commerce et améliorer l'expérience client.
-- *Outils :* Python, TF-IDF, Random Forest.
+## 📁 Projet Vedette : 
+### Validation Statistique & Qualité de Données
+Analyse de Fiabilité : Campagnes de Marketing Bancaire Mise en place d'un pipeline complet de validation de données pour garantir la fiabilité des prédictions de souscription bancaire.
+
+**Pourquoi ?** Assurer l'intégrité des données avant la modélisation en détectant les incohérences logiques et les anomalies métier.
+
+**Expertise technique**: Tests statistiques (Shapiro-Wilk, Pearson), détection d'outliers (IQR) et validation de schémas de données.
+
+**Outils** : Python, Pandera (Data Validation), Scipy, Seaborn, Pandas.
 
 ---
 
