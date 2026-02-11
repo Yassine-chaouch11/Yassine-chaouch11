@@ -25,6 +25,7 @@ Analyse de Fiabilité : Campagnes de Marketing Bancaire Mise en place d'un pipel
 **Expertise technique**: Tests statistiques (Shapiro-Wilk, Pearson), détection d'outliers (IQR) et validation de schémas de données.
 
 **Outils** : Python, Pandera (Data Validation), Scipy, Seaborn, Pandas.
+## lien: https://github.com/Yassine-chaouch11/Projet_Bank-Marketing-Validation
 
 ---
 
